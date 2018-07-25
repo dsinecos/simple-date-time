@@ -1,0 +1,8 @@
+{
+  "name": "simple-date",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "dsinecos",
+  "license": "MIT",
+  "private": true
+}
